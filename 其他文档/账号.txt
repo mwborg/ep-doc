@@ -1,0 +1,17 @@
+
+后台
+https://github.com/mwborg/ep-admin.git
+
+文档
+https://github.com/mwborg/ep-doc.git
+
+网站
+www.mengweibo.com/47.93.194.91
+
+服务器
+root Mwb102115
+
+数据库
+admin/admin
+
+------------------------------------------------
